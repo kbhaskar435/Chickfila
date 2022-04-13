@@ -1,0 +1,2 @@
+﻿source_id,location_name,url,phone_number,street_address_1,city,postal_code,state,country,restaurant_schedules,Delivery,CarryOut,DineIn,DriveThru,CurbsidePickup
+02746,5 Points In-Line,https://www.chick-fil-a.com/locations/al/5-points-in-line,(205) 930-8000,2000 Highland Ave S,Birmingham,35205,AL,US,Monday - Saturday : 6:00 AM-9:00 PM CST|Sunday : Closed,True,True,True,False,False
